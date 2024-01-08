@@ -154,5 +154,6 @@ export default {
     "ocr_exceptions": {}
   },
   "parser_id": "automation",
-  "path": "/archives14/5f0c1924-5126-4ec8-ae9a-19d74904fe14"
+  "path": "/archives14/5f0c1924-5126-4ec8-ae9a-19d74904fe14",
+  "resource_type": "book"
 }
