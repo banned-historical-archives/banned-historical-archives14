@@ -11,4 +11,6 @@ export default {
   parser_option: {},
   parser_id: 'result-json',
   path: 'maoistlibrary',
+  "resource_type": "book",
+  "version": 2
 };
