@@ -92,7 +92,7 @@ export default {
     "ocr_exceptions": {}
   },
   "parser_id": "automation",
-  "path": "/archives14/5f9ce67e-fa32-4f32-aef9-9b52cb52fd5b",
+  "path": "5f9ce67e-fa32-4f32-aef9-9b52cb52fd5b",
   "resource_type": "book",
   "version": 2
 }
