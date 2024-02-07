@@ -1,0 +1,1 @@
+export default {"resource_type":"picture","entity":{"name":"test","description":"描述","source":"来源，例如：新华社","year":1999,"month":10,"day":1,"tags":[{"name":"标签名称","type":"标签大类"}],"url":"https:/raw.githubusercontent.com/banned-historical-archives/banned-historical-archives14/main/bc8d70fa-a51e-4db3-b482-82f363f74460.png"},"version":2};
